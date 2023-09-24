@@ -1,6 +1,5 @@
 import { NavLink } from "react-router-dom";
 
-
 const Header = () => {
 
     let links = <>
