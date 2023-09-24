@@ -30,7 +30,7 @@
       "Title": "Casual T-Shirt",
       "Category": "Clothing",
       "Category_bg": "#79C23F50",
-      "Card_bg": "#79C23F26",
+      "Card_bg": "#79C23F40",
       "Text_Color": "#79C23F",
       "Description": "Stay stylish and comfortable with this classic casual t-shirt.",
       "Price": "$19.99"
@@ -78,7 +78,7 @@
       "Title": "Formal Suit",
       "Category": "Clothing",
       "Category_bg": "#79C23F50",
-      "Card_bg": "#79C23F26",
+      "Card_bg": "#79C23F40",
       "Text_Color": "#79C23F",
       "Description": "Elevate your style with this elegant and well-fitted formal suit.",
       "Price": "$129.99"
@@ -126,7 +126,7 @@
       "Title": "Designer Dress",
       "Category": "Clothing",
       "Category_bg": "#79C23F50",
-      "Card_bg": "#79C23F26",
+      "Card_bg": "#79C23F40",
       "Text_Color": "#79C23F",
       "Description": "Make a statement with this elegant designer dress.",
       "Price": "$199.99"
