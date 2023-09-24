@@ -3,6 +3,7 @@ import MainLayout from "../MainLayout/MainLayout";
 import Home from "../Pages/Home";
 import Donation from "../Pages/Donation";
 import Statistics from "../Pages/Statistics";
+import ViewDetails from "../Components/ViewDetails/ViewDetails";
 
 let myCreatedRoute = createBrowserRouter(
     [
@@ -14,6 +15,11 @@ let myCreatedRoute = createBrowserRouter(
             {
                 path:'/',
                 element: <Home></Home>,
+                loader: ()=> fetch('/data.json')
+            },
+            {
+                path:'/category/:id',
+                element: <ViewDetails></ViewDetails>,
                 loader: ()=> fetch('/data.json')
             },
             {

@@ -2,6 +2,7 @@
     {
       "id": "1",
       "Picture": "https://i.ibb.co/HTSJW3Y/Rectangle-4287-1.png",
+      "Picture2": "https://i.ibb.co/zN3ZTcn/Rectangle-4288.png",
       "Title": "Learn Programming",
       "Category": "Education",
       "Category_bg": "#FF444A70",
@@ -13,6 +14,7 @@
     {
       "id": "2",
       "Picture": "https://i.ibb.co/rGs8pWH/Rectangle-4284.png",
+      "Picture2": "https://i.ibb.co/QmjgJ8z/Health.png",
       "Title": "Yoga for Beginners",
       "Category": "Health",
       "Category_bg": "#0052FF60",
@@ -24,6 +26,7 @@
     {
       "id": "3",
       "Picture": "https://i.ibb.co/fqxP3X9/Rectangle-4287.png",
+      "Picture2": "https://i.ibb.co/dDfjBFN/Clothing.png",
       "Title": "Casual T-Shirt",
       "Category": "Clothing",
       "Category_bg": "#79C23F50",
@@ -35,6 +38,7 @@
     {
       "id": "4",
       "Picture": "https://i.ibb.co/YRFB6Kg/Rectangle-4287-2.png",
+      "Picture2": "https://i.ibb.co/89Gys9p/Food.png",
       "Title": "Gourmet Pizza",
       "Category": "Food",
       "Category_bg": "#F8714750",
@@ -46,6 +50,7 @@
     {
       "id": "5",
       "Picture": "https://i.ibb.co/HTSJW3Y/Rectangle-4287-1.png",
+      "Picture2": "https://i.ibb.co/zN3ZTcn/Rectangle-4288.png",
       "Title": "Mathematics Course",
       "Category": "Education",
       "Category_bg": "#FF444A70",
@@ -57,6 +62,7 @@
     {
       "id": "6",
       "Picture": "https://i.ibb.co/rGs8pWH/Rectangle-4284.png",
+      "Picture2": "https://i.ibb.co/QmjgJ8z/Health.png",
       "Title": "Meditation Guide",
       "Category": "Health",
       "Category_bg": "#0052FF60",
@@ -68,6 +74,7 @@
     {
       "id": "7",
       "Picture": "https://i.ibb.co/fqxP3X9/Rectangle-4287.png",
+      "Picture2": "https://i.ibb.co/dDfjBFN/Clothing.png",
       "Title": "Formal Suit",
       "Category": "Clothing",
       "Category_bg": "#79C23F50",
@@ -79,6 +86,7 @@
     {
       "id": "8",
       "Picture": "https://i.ibb.co/YRFB6Kg/Rectangle-4287-2.png",
+      "Picture2": "https://i.ibb.co/89Gys9p/Food.png",
       "Title": "Healthy Salad",
       "Category": "Food",
       "Category_bg": "#F8714750",
@@ -90,6 +98,7 @@
     {
       "id": "9",
       "Picture": "https://i.ibb.co/HTSJW3Y/Rectangle-4287-1.png",
+      "Picture2": "https://i.ibb.co/zN3ZTcn/Rectangle-4288.png",
       "Title": "Language Learning",
       "Category": "Education",
       "Category_bg": "#FF444A70",
@@ -101,6 +110,7 @@
     {
       "id": "10",
       "Picture": "https://i.ibb.co/rGs8pWH/Rectangle-4284.png",
+      "Picture2": "https://i.ibb.co/QmjgJ8z/Health.png",
       "Title": "Fitness Tracker",
       "Category": "Health",
       "Category_bg": "#0052FF60",
@@ -112,6 +122,7 @@
     {
       "id": "11",
       "Picture": "https://i.ibb.co/fqxP3X9/Rectangle-4287.png",
+      "Picture2": "https://i.ibb.co/dDfjBFN/Clothing.png",
       "Title": "Designer Dress",
       "Category": "Clothing",
       "Category_bg": "#79C23F50",
@@ -123,6 +134,7 @@
     {
       "id": "12",
       "Picture": "https://i.ibb.co/YRFB6Kg/Rectangle-4287-2.png",
+      "Picture2": "https://i.ibb.co/89Gys9p/Food.png",
       "Title": "Organic Smoothie",
       "Category": "Food",
       "Category_bg": "#F8714750",
