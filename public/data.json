@@ -8,20 +8,8 @@
       "Category_bg": "#FF444A70",
       "Card_bg": "#FF444A26",
       "Text_Color": "#FF444A",
-      "Description": "Master the art of coding with this comprehensive programming course.",
-      "Price": "$49.99"
-    },
-    {
-      "id": "2",
-      "Picture": "https://i.ibb.co/rGs8pWH/Rectangle-4284.png",
-      "Picture2": "https://i.ibb.co/QmjgJ8z/Health.png",
-      "Title": "Yoga for Beginners",
-      "Category": "Health",
-      "Category_bg": "#0052FF60",
-      "Card_bg": "#0052FF26",
-      "Text_Color": "#0052FF",
-      "Description": "Discover the benefits of yoga and improve your health and flexibility.",
-      "Price": "$29.99"
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
     },
     {
       "id": "3",
@@ -32,8 +20,20 @@
       "Category_bg": "#79C23F50",
       "Card_bg": "#79C23F40",
       "Text_Color": "#79C23F",
-      "Description": "Stay stylish and comfortable with this classic casual t-shirt.",
-      "Price": "$19.99"
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
+    },
+    {
+      "id": "2",
+      "Picture": "https://i.ibb.co/rGs8pWH/Rectangle-4284.png",
+      "Picture2": "https://i.ibb.co/QmjgJ8z/Health.png",
+      "Title": "Clean water for children",
+      "Category": "Health",
+      "Category_bg": "#0052FF60",
+      "Card_bg": "#0052FF26",
+      "Text_Color": "#0052FF",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
     },
     {
       "id": "4",
@@ -44,20 +44,8 @@
       "Category_bg": "#F8714750",
       "Card_bg": "#F8714726",
       "Text_Color": "#F87147",
-      "Description": "Savor the delicious flavors of our gourmet pizza made with fresh ingredients.",
-      "Price": "$14.99"
-    },
-    {
-      "id": "5",
-      "Picture": "https://i.ibb.co/HTSJW3Y/Rectangle-4287-1.png",
-      "Picture2": "https://i.ibb.co/zN3ZTcn/Rectangle-4288.png",
-      "Title": "Mathematics Course",
-      "Category": "Education",
-      "Category_bg": "#FF444A70",
-      "Card_bg": "#FF444A26",
-      "Text_Color": "#FF444A",
-      "Description": "Unlock the secrets of mathematics with this engaging online course.",
-      "Price": "$59.99"
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
     },
     {
       "id": "6",
@@ -68,8 +56,8 @@
       "Category_bg": "#0052FF60",
       "Card_bg": "#0052FF26",
       "Text_Color": "#0052FF",
-      "Description": "Find inner peace and reduce stress through guided meditation practices.",
-      "Price": "$19.99"
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
     },
     {
       "id": "7",
@@ -80,8 +68,8 @@
       "Category_bg": "#79C23F50",
       "Card_bg": "#79C23F40",
       "Text_Color": "#79C23F",
-      "Description": "Elevate your style with this elegant and well-fitted formal suit.",
-      "Price": "$129.99"
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
     },
     {
       "id": "8",
@@ -92,8 +80,20 @@
       "Category_bg": "#F8714750",
       "Card_bg": "#F8714726",
       "Text_Color": "#F87147",
-      "Description": "Stay fit and indulge in the goodness of a fresh and healthy salad.",
-      "Price": "$9.99"
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
+    },
+    {
+      "id": "5",
+      "Picture": "https://i.ibb.co/HTSJW3Y/Rectangle-4287-1.png",
+      "Picture2": "https://i.ibb.co/zN3ZTcn/Rectangle-4288.png",
+      "Title": "Mathematics Course",
+      "Category": "Education",
+      "Category_bg": "#FF444A70",
+      "Card_bg": "#FF444A26",
+      "Text_Color": "#FF444A",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
     },
     {
       "id": "9",
@@ -104,32 +104,8 @@
       "Category_bg": "#FF444A70",
       "Card_bg": "#FF444A26",
       "Text_Color": "#FF444A",
-      "Description": "Speak fluently with our immersive language learning program.",
-      "Price": "$39.99"
-    },
-    {
-      "id": "10",
-      "Picture": "https://i.ibb.co/rGs8pWH/Rectangle-4284.png",
-      "Picture2": "https://i.ibb.co/QmjgJ8z/Health.png",
-      "Title": "Fitness Tracker",
-      "Category": "Health",
-      "Category_bg": "#0052FF60",
-      "Card_bg": "#0052FF26",
-      "Text_Color": "#0052FF",
-      "Description": "Track your fitness goals with our advanced fitness tracker.",
-      "Price": "$49.99"
-    },
-    {
-      "id": "11",
-      "Picture": "https://i.ibb.co/fqxP3X9/Rectangle-4287.png",
-      "Picture2": "https://i.ibb.co/dDfjBFN/Clothing.png",
-      "Title": "Designer Dress",
-      "Category": "Clothing",
-      "Category_bg": "#79C23F50",
-      "Card_bg": "#79C23F40",
-      "Text_Color": "#79C23F",
-      "Description": "Make a statement with this elegant designer dress.",
-      "Price": "$199.99"
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
     },
     {
       "id": "12",
@@ -140,8 +116,33 @@
       "Category_bg": "#F8714750",
       "Card_bg": "#F8714726",
       "Text_Color": "#F87147",
-      "Description": "Refresh yourself with a nutritious organic smoothie.",
-      "Price": "$5.99"
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
+    },
+    {
+      "id": "11",
+      "Picture": "https://i.ibb.co/fqxP3X9/Rectangle-4287.png",
+      "Picture2": "https://i.ibb.co/dDfjBFN/Clothing.png",
+      "Title": "Designer Dress",
+      "Category": "Clothing",
+      "Category_bg": "#79C23F50",
+      "Card_bg": "#79C23F40",
+      "Text_Color": "#79C23F",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
+    },
+
+    {
+      "id": "10",
+      "Picture": "https://i.ibb.co/rGs8pWH/Rectangle-4284.png",
+      "Picture2": "https://i.ibb.co/QmjgJ8z/Health.png",
+      "Title": "Fitness Tracker",
+      "Category": "Health",
+      "Category_bg": "#0052FF60",
+      "Card_bg": "#0052FF26",
+      "Text_Color": "#0052FF",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
     }
   ]
   
