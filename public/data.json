@@ -48,18 +48,6 @@
       "Price": "$200.00"
     },
     {
-      "id": "6",
-      "Picture": "https://i.ibb.co/rGs8pWH/Rectangle-4284.png",
-      "Picture2": "https://i.ibb.co/QmjgJ8z/Health.png",
-      "Title": "Meditation Guide",
-      "Category": "Health",
-      "Category_bg": "#0052FF60",
-      "Card_bg": "#0052FF26",
-      "Text_Color": "#0052FF",
-      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
-      "Price": "$200.00"
-    },
-    {
       "id": "7",
       "Picture": "https://i.ibb.co/fqxP3X9/Rectangle-4287.png",
       "Picture2": "https://i.ibb.co/dDfjBFN/Clothing.png",
@@ -68,6 +56,18 @@
       "Category_bg": "#79C23F50",
       "Card_bg": "#79C23F40",
       "Text_Color": "#79C23F",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+      "Price": "$200.00"
+    },
+    {
+      "id": "6",
+      "Picture": "https://i.ibb.co/rGs8pWH/Rectangle-4284.png",
+      "Picture2": "https://i.ibb.co/QmjgJ8z/Health.png",
+      "Title": "Meditation Guide",
+      "Category": "Health",
+      "Category_bg": "#0052FF60",
+      "Card_bg": "#0052FF26",
+      "Text_Color": "#0052FF",
       "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
       "Price": "$200.00"
     },

@@ -15,7 +15,7 @@ const Statistics = () => {
       }
     return (
 
-        <div className='flex justify-center items-center h-3/6 mt-10'>
+        <div className='flex justify-center items-center h-3/6 w-9/12 mt-10 mx-auto'>
             <Chart
                 type='pie'
                 width={500}

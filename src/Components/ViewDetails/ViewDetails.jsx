@@ -7,7 +7,7 @@ const ViewDetails = () => {
 
     let { id } = useParams();
     let [donateItem, setDonateItem] = useState({});
-    let { Picture2, Price, Category_bg, Title, Description } = donateItem;
+    let { Picture2, Price,Text_Color, Title, Description } = donateItem;
     let items = useLoaderData();
     useEffect(() => {
         let findedCard = items.find(item => item.id === id);
@@ -40,7 +40,7 @@ const ViewDetails = () => {
             <div className="relative w-full mx-auto">
                 <img className="w-full h-[550px]" src={Picture2} alt="" />
                 <div className="absolute bottom-0 p-10 mr-5 w-full bg-black bg-opacity-40">
-                    <button onClick={handleDonate} className="text-white px-3 py-2" style={{ backgroundColor: Category_bg }}>Donate ${Price}</button>
+                    <button onClick={handleDonate} className="text-white px-3 py-2 rounded-md" style={{ backgroundColor: Text_Color }}>Donate {Price}</button>
                 </div>
             </div>
             <div>

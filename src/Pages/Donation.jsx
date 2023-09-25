@@ -22,7 +22,7 @@ const Donation = () => {
                 <p className="h-[80vh] flex justify-center items-center">{noFound}</p>
             ) : (
                 <div>
-                    <div className="grid grid-cols-2 gap-5">
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                         {
                             isShow ? donations.map((item) => (
                                 <DonatedItem key={item.id} item={item}></DonatedItem>
