@@ -34,8 +34,8 @@ const Donation = () => {
                         }
                     </div>
 
-                    {donations.length > 4 && <button onClick={() => setIsShow(!isShow)} className="px-5 bg-green-500 block mx-auto mt-5 text-white py-3 rounded-lg">
-                        {isShow ? "Show Less":'Show more'}
+                    {donations.length > 4 && <button onClick={() => setIsShow(!isShow)} className={isShow ? 'hidden':'px-5 bg-green-500 block mx-auto mt-5 text-white py-3 rounded-lg'}>
+                        {isShow ? "":'Show more'}
                     </button>}
                 </div>
             )}

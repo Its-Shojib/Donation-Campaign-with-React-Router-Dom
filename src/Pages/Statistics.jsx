@@ -4,7 +4,7 @@ const Statistics = () => {
     let yourDonation = 0;
     let item = JSON.parse(localStorage.getItem('donated'))?.length;
     console.log(item);
-    if(item>0){
+    if (item > 0) {
         yourDonation = (item / 12) * 100;
     }
 
@@ -12,21 +12,21 @@ const Statistics = () => {
 
     let state = {
         color: ['red', 'blue']
-      }
+    }
     return (
 
         <div className='flex justify-center items-center h-3/6 w-9/12 mt-10 mx-auto'>
-            <Chart
-                type='pie'
-                width={500}
-                heigth={550}
-                series={[totalDonation, yourDonation]}
-                color={state.color}
-                options={{
-                    labels: ['Total Donation', 'Your Donation']
-                }}
-            >
-            </Chart>
+            <h2 className='w-full md:w-4/6'>
+                <Chart
+                    type='pie'
+                    series={[totalDonation, yourDonation]}
+                    color={state.color}
+                    options={{
+                        labels: ['Total Donation', 'Your Donation']
+                    }}
+                >
+                </Chart>
+            </h2>
         </div>
     );
 };

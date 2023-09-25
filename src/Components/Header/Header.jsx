@@ -24,7 +24,7 @@ const Header = () => {
         <div>
             <div className="navbar flex justify-around items-center">
                 <div className="navbar-start">
-                    <img src="/public/Logo.png" alt="" />
+                    <img src="/Logo.png" alt="" />
                 </div>
                 <div className="navbar-end">
                     <div className="dropdown">
