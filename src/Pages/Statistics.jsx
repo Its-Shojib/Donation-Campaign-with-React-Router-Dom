@@ -3,7 +3,7 @@ const Statistics = () => {
     let totalDonation = 100;
     let yourDonation = 0;
     let item = JSON.parse(localStorage.getItem('donated'))?.length;
-    console.log(item);
+
     if (item > 0) {
         yourDonation = (item / 12) * 100;
     }

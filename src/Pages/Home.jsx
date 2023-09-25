@@ -16,9 +16,8 @@ const Home = () => {
     let handleSubmit = (e) =>{
         e.preventDefault();
         let input = e.target.name.value;
-        console.log(input);
         let filteredData = data.filter(data => data.Category.toLowerCase() === input.toLowerCase())
-        console.log(filteredData);
+
         setData(filteredData);
     }
     return (
