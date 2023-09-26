@@ -24,7 +24,7 @@ const Home = () => {
         <div>
             <div>
                 <div className="hero min-h-[400px]" style={{ backgroundImage: 'url("/Rectangle 4287.png")' }}>
-                    <div className="hero-overlay bg-white bg-opacity-95"></div>
+                    <div className="hero-overlay bg-white bg-opacity-90"></div>
                     <div className="hero-content text-center text-neutral-content">
                         <div className="flex justify-center items-center">
                             <div className="space-y-5">
