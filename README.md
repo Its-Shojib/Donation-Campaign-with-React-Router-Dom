@@ -10,3 +10,7 @@
 * **Show More data:** You can see donated item in donation list. if you donate more than 4 item, you can see a button "Show More" and clicking this you can see all the donated item. 
 * **Donate Statistics:** You can see a beautifull pie-chart on statistics tab where you will see the donation statistics.
 * **Local-Storage:** All donated data loaded into local-storage,so you can't lose any data.
+
+# Technology Used:
+
+* **React Js, Tailwind, Javascript, JSON-API , Local-Storage**
